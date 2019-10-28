@@ -8,11 +8,7 @@ Este contrato debe poder:
     - Determinar todas las direcciones que ganaron el 2o premio
         - Guardar cada dirección en cuyos dígitos hexadecimales seleccionados al menos 1 coincida con la dirección del minero que minó el bloque en que se determinaron los ganadores del sorteo
 
-### Usuarios
-- Participante del Sorteo
-
-
-## Participante del Sorteo
+## Participantes del Sorteo
 ---
 
 Mínimo: 2 <br>
